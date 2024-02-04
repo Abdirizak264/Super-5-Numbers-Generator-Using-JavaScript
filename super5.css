@@ -1,0 +1,27 @@
+
+
+body, #userInput{
+    text-align: center;
+    padding-top: 40px;
+    background-color: rgb(69, 67, 67);   
+}
+
+h1, h3, label{
+    color: rgb(254, 251, 251);
+}
+
+#userInpu, label, #submit{
+    font-size: 20px;
+}
+
+#userInput{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    margin-left: 30%;
+    color: rgb(254, 251, 251); 
+}
+
+#submit{
+    padding: 10px;
+}
