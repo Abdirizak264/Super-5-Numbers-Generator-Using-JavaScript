@@ -14,9 +14,9 @@ BootStrap
 
 
 # Live Preview
-https://github.com/Abdirizak264/Super-5-Numbers-Generator-Using-JavaScript.git
+
 
 # Set Up
-To get in locally: Download    
+To get in locally: Download    https://github.com/Abdirizak264/Super-5-Numbers-Generator-Using-JavaScript.git
 
 
