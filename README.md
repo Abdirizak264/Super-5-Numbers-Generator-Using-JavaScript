@@ -1,6 +1,10 @@
 # Super-5-Numbers-Generator-Using-JavaScript
-This project will generate numbers of Super5 jackpot. Basicaly will generate how many numbers that you want to guest for the next draw.
+This project will generate the numbers of Super5 jackpots. It will generate how many numbers you want to guest for the next draw.
 # Screen Cuptures 
+![image](https://github.com/Abdirizak264/Super-5-Numbers-Generator-Using-JavaScript/assets/115321486/0cc85a6b-c78d-4ed2-8a3a-6bab30a9838a)
+
+![image](https://github.com/Abdirizak264/Super-5-Numbers-Generator-Using-JavaScript/assets/115321486/91c87c50-8db7-4944-bf56-5f681260dc36)
+
 
 # Live Preview
 
